@@ -8,7 +8,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
-|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
+|Misha Berrien | [iskriyana](https://github.com/Iskriyana) |
 
 ### Methods Used
 * Inferential Statistics
